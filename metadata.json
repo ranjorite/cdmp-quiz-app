@@ -1,0 +1,5 @@
+{
+  "name": "CDMP Pro Quizzer",
+  "description": "An application to help users prepare for the DAMA CDMP exam. It features an admin panel for uploading questions from Excel files and a student portal for taking chapter-wise or full mock exams.",
+  "requestFramePermissions": []
+}
